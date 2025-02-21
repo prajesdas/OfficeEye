@@ -15,6 +15,10 @@ OfficeEye is an AI-driven office monitoring system 📊🚀 that leverages **YOL
 - **IoT & Smart Office Integration 📡** – Connects with smart office devices for automation 🤖.
 
 ---
+![Screenshot 2025-02-21 164042](https://github.com/user-attachments/assets/f7b1b565-43b6-4c66-ac2c-11494fefca13)
+
+![image](https://github.com/user-attachments/assets/efb4efe2-6e6b-4d18-9c8d-4b689744c20f)
+
 
 ## 📌 Installation Guide
 ### 🔧 Prerequisites
