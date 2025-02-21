@@ -6,19 +6,24 @@
 OfficeEye is an AI-driven office monitoring system 📊🚀 that leverages **YOLOv8** 🧠🎯 to **detect, track, and analyze** workplace activities **in real-time** ⏳. It enhances **security 🔐, productivity 📈, and compliance ✅** by providing an **intelligent and automated surveillance solution** 🤖.
 
 ### 🔥 Key Features
-- **Live Monitoring 📡** – Real-time AI-powered video surveillance 🎥.
-- **Object & Person Detection 🎯** – Identifies individuals 👥, objects 🖥️, and movements 🚶‍♂️.
+- **Live Monitoring 📱** – Real-time AI-powered video surveillance 🎥.
+- **Object & Person Detection 🎯** – Identifies individuals 👥, objects 🖥️, and movements 🛋‍♂️.
 - **Unauthorized Access Alerts 🚨** – Sends real-time security notifications 📩.
-- **Workplace Compliance Enforcement ⚠️** – Monitors attendance ⏰, movement patterns 📍, and policy adherence 📜.
-- **Data Insights & Analytics 📊🔍** – Provides actionable reports 📑 to optimize workflows 🔄.
-- **Scalability & Cloud Storage ☁️** – Suitable for small offices 🏪 to large enterprises 🏢🏢 with secure data access 🔑.
-- **IoT & Smart Office Integration 📡** – Connects with smart office devices for automation 🤖.
+- **Workplace Compliance Enforcement ⚠️** – Monitors attendance ⏰, movement patterns 📌, and policy adherence 📝.
+- **Data Insights & Analytics 📊🔍** – Provides actionable reports 💑 to optimize workflows 🔄.
+- **Scalability & Cloud Storage ☁️** – Suitable for small offices 🏦 to large enterprises 🏢🏢 with secure data access 🔑.
+- **IoT & Smart Office Integration 📱** – Connects with smart office devices for automation 🤖.
 
 ---
-![Screenshot 2025-02-21 164042](https://github.com/user-attachments/assets/f7b1b565-43b6-4c66-ac2c-11494fefca13)
+
+### 🎬 Video Demo
+Watch OfficeEye in action: [Click Here](https://drive.google.com/file/d/1VaNhvGnCIj3Ycj-PN91WoQ6FtIxA80J0/view?usp=sharing) 📹
+
+---
+
+![Screenshot](https://github.com/user-attachments/assets/f7b1b565-43b6-4c66-ac2c-11494fefca13)
 
 ![image](https://github.com/user-attachments/assets/efb4efe2-6e6b-4d18-9c8d-4b689744c20f)
-
 
 ## 📌 Installation Guide
 ### 🔧 Prerequisites
@@ -58,15 +63,15 @@ Ensure you have the following installed:
 
 ---
 
-## 📡 API Integration
-OfficeEye provides RESTful APIs for easy integration into **third-party systems 📡**, allowing businesses to:
-- Fetch real-time monitoring data 🕵️‍♂️.
+## 📰 API Integration
+OfficeEye provides RESTful APIs for easy integration into **third-party systems 📱**, allowing businesses to:
+- Fetch real-time monitoring data 🧕‍♂️.
 - Automate access control 🚪.
-- Generate security reports 📑.
+- Generate security reports 💑.
 
 ---
 
-## 📜 License
+## 🐜 License
 This project is licensed under the **MIT License** 📝. See the LICENSE file for details.
 
 ---
