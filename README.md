@@ -73,7 +73,7 @@ We welcome contributions! 🛠️ Fork the repo, create a new branch, and submit
 ---
 
 ## 📞 Support
-For issues or queries, please contact us at **support@officeeye.com** 📧 or open an issue on GitHub.
+For issues or queries, please contact us at **prajesdas390@gmail.com** 📧 or open an issue on GitHub.
 
 🚀 **Enhance Workplace Security with OfficeEye!** 🏢👁️
 
